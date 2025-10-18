@@ -7,6 +7,9 @@
 
 I am interested in building **adaptive robotic intelligence** that continuously improves during deployment using **closed-loop perception and control**. My research focuses on enabling robots to **learn from experience in real time**, not just from offline training, by integrating **test-time adaptation, lifelong learning, and safe self-correction** within dynamic and uncertain environments. My long-term goal is to bridge the gap between **lab-trained models and real-world robot behavior**, developing systems that are **robust, context-aware, and capable of evolving after deployment**.
 
+[ROS2] [Computer Vision] [Sensor Fusion] [Reinforcement Learning]
+[Test-Time Adaptation] [Closed-Loop Control] [Robotics AI]
+
 ---
 
 ## 🔬 Research Interests
