@@ -30,7 +30,7 @@ I am interested in building **adaptive robotic intelligence** that continuously 
 
 ## 🚀 Robotics Portfolio Lab
 
-This GitHub will host my growing robotics portfolio including:
+This GitHub will host my growing robotics portfolio, including:
 
 * 📌 Core Math & Control Fundamentals
 * 🤖 Perception + Control Projects
@@ -48,7 +48,7 @@ This GitHub will host my growing robotics portfolio including:
 * adaptive-robot-navigation	Perception + Control	🚧 In Progress
 * ttt-adaptation-mlp	Test-Time Adaptation	⏳ Planned
 * visual-odometry-basics	SLAM	⏳ Planned
-* robotics-math-lab	Foundations	✅ Starting now
+* robotics-math-lab	Foundations	
 ---
 
 ## ⚙️ Tech Stack
