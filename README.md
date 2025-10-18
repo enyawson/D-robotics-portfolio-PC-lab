@@ -74,9 +74,19 @@ This GitHub will host my growing robotics portfolio, including:
 
 ---
 
-![Emma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enyawson&show_icons=true&theme=radical&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enyawson&layout=compact&theme=radical&hide_border=false)
+<div align="center" style="background-color:white; padding:20px; border-radius:10px;">
+
+  ### 🚀 GitHub Activity & Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=enyawson&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true" alt="Emma's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyawson&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enyawson&theme=default&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 
 ---
 
