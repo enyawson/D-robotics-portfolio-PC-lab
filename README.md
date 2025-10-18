@@ -75,17 +75,21 @@ This GitHub will host my growing robotics portfolio, including:
 ---
 
 
-<div align="center" style="background-color:white; padding:20px; border-radius:10px;">
+<h2 align="center">📊 GitHub Activity & Stats</h2>
 
-  ### 🚀 GitHub Activity & Stats
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=enyawson&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=true" alt="Emma's GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=enyawson&show_icons=true&theme=dark-blue&count_private=true&include_all_commits=true&hide_border=false" alt="Emma's GitHub Stats" width="60%" style="margin: 20px 0;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyawson&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyawson&layout=compact&theme=dark-blue&hide_border=false" alt="Top Languages" width="45%" style="margin: 20px;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enyawson&theme=default&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enyawson&theme=dark-blue&hide_border=false" alt="GitHub Streak" width="60%" style="margin: 20px 0;" />
 
 </div>
+
 
 
 ---
