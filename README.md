@@ -7,8 +7,16 @@
 
 I am interested in building **adaptive robotic intelligence** that continuously improves during deployment using **closed-loop perception and control**. My research focuses on enabling robots to **learn from experience in real time**, not just from offline training, by integrating **test-time adaptation, lifelong learning, and safe self-correction** within dynamic and uncertain environments. My long-term goal is to bridge the gap between **lab-trained models and real-world robot behavior**, developing systems that are **robust, context-aware, and capable of evolving after deployment**.
 
-[ROS2] [Computer Vision] [Sensor Fusion] [Reinforcement Learning]
-[Test-Time Adaptation] [Closed-Loop Control] [Robotics AI]
+---
+## 🛠️ Skills & Research Focus
+![ROS2](https://img.shields.io/badge/ROS2-Framework-blue?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20AI-green?style=for-the-badge)
+![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-Multi-modal%20Data-orange?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-RL%20%7C%20Policy%20Gradient-red?style=for-the-badge)
+![Test-Time Adaptation](https://img.shields.io/badge/Test--Time%20Adaptation-Domain%20Shift%20Resilience-yellow?style=for-the-badge)
+![Closed-Loop Control](https://img.shields.io/badge/Closed--Loop%20Control-Real--Time%20Feedback-lightgrey?style=for-the-badge)
+![Robotics AI](https://img.shields.io/badge/Robotics%20AI-Perception%20%7C%20Control-purple?style=for-the-badge)
+
 
 ---
 
