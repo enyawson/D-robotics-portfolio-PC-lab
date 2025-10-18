@@ -42,13 +42,13 @@ This GitHub will host my growing robotics portfolio including:
 > Repository: `D-robotics-portfolio-PC-lab` (in progress)
 
 
-
-📌 Featured Repositories (Coming Soon)
-Project	Area	Status
-adaptive-robot-navigation	Perception + Control	🚧 In Progress
-ttt-adaptation-mlp	Test-Time Adaptation	⏳ Planned
-visual-odometry-basics	SLAM	⏳ Planned
-robotics-math-lab	Foundations	✅ Starting now
+---
+## 📌 Featured Repositories (Coming Soon)
+ Project	Area	Status
+* adaptive-robot-navigation	Perception + Control	🚧 In Progress
+* ttt-adaptation-mlp	Test-Time Adaptation	⏳ Planned
+* visual-odometry-basics	SLAM	⏳ Planned
+* robotics-math-lab	Foundations	✅ Starting now
 ---
 
 ## ⚙️ Tech Stack
