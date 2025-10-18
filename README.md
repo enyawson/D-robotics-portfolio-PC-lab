@@ -74,6 +74,12 @@ This GitHub will host my growing robotics portfolio, including:
 
 ---
 
+![Emma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enyawson&show_icons=true&theme=radical&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enyawson&layout=compact&theme=radical&hide_border=false)
+
+---
+
 More coming soon... ✅
 
 ---
