@@ -1,9 +1,9 @@
-*Forward kinematics*: is how the angles in the robot parts (e.g. arms) and the angel in the wrist moves to help the end effector achieve it result.
+**Forward kinematics**: is how the angles in the robot parts (e.g. arms) and the angel in the wrist moves to help the end effector achieve it result.
 OR 
 How changing robot’s parameters changes the result of the end effectors orientation or position in space.
 
-*Inverse Kinematics* is the exact opposite of F.K, where the position of the end-effector is given in space while the parameters(joints angles) are derived through that.
+**Inverse Kinematics** is the exact opposite of F.K, where the position of the end-effector is given in space while the parameters(joints angles) are derived through that.
 
-*Orientation* of the robotics is the direction to which it faces relative to the reference frame. Common representation Euler angles (roll, pitch, yaw), Rotation matrices, Quaternions(gimbal lock, compacts and avoids)
+**Orientation** of the robotics is the direction to which it faces relative to the reference frame. Common representation Euler angles (roll, pitch, yaw), Rotation matrices, Quaternions(gimbal lock, compacts and avoids)
 While
-*Position* is the location of a pointer or object in space. Either 2D(x,y) coordinates or 3D coordinates
+**Position** is the location of a pointer or object in space. Either 2D(x,y) coordinates or 3D coordinates
