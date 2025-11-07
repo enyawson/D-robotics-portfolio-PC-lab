@@ -45,4 +45,7 @@
 ---
 
 ## ⚙️ Folder Structure
+<<<<<<< HEAD
 #Robotic Math Lab
+=======
+>>>>>>> 67893e7 (self made not on robotic foundation)

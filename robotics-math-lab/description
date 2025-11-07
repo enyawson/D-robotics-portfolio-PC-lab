@@ -1,0 +1,16 @@
+├── 01_vectors_and_frames/
+│ ├── vectors_basics.m
+│ ├── coordinate_transforms.m
+│ ├── rotation_matrices.ipynb
+│
+├── 02_kinematics/
+│ ├── forward_kinematics.m
+│ ├── inverse_kinematics.ipynb
+│
+├── 03_dynamics/
+│ ├── newton_euler.m
+│ ├── lagrangian_dynamics.ipynb
+│
+├── 04_robot_models/
+│ ├── 2R_planar_arm.m
+│ ├── differential_drive.ipynb

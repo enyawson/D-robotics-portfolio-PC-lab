@@ -1,0 +1,40 @@
+
+Structure fo the entire lessons
+
+D-robotics-portfolio-PC-lab/
+│
+├── 📘 README.md               # Overview (already done)
+├── 📁 0_math_fundamentals/    # MATLAB + Python hybrid notebooks
+│   ├── linear_algebra/
+│   ├── kinematics/
+│   ├── dynamics/
+│   └── control_basics/
+│
+├── 📁 1_perception_control/
+│   ├── image_processing/
+│   ├── lidar_fusion/
+│   └── adaptive_navigation/
+│
+├── 📁 2_slam_navigation/
+│   ├── visual_odometry/
+│   ├── mapping/
+│   └── localization/
+│
+├── 📁 3_learning_adaptation/
+│   ├── test_time_adaptation/
+│   ├── continual_learning/
+│   └── rl_robotics/
+│
+├── 📁 datasets/
+│   ├── raw/
+│   ├── processed/
+│   └── synthetic/
+│
+├── 📁 utils/
+│   ├── matlab_helpers/
+│   ├── python_helpers/
+│   └── visualization_tools/
+│
+└── 📁 docs/
+    ├── research_notes/
+    └── papers_and_refs/
